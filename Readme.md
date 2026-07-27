@@ -122,7 +122,7 @@ Parameter: rawInput (int) — Current raw sensor value from analogRead().
 Returns: (int) — Clean, filtered sensor reading.
 ```
 ## **📜 License**
-*Distributed under the [MIT License](https://opensource.org/licenses/MIT). See [LICENSE](LICENSE) for more information.*
+*Distributed under the [MIT License](https://opensource.org/licenses/MIT). See [LICENSE](https://github.com/tawfique02/SmartSensorFilter/blob/main/LICENSE) for more information.*
 ## 🤝 Author & Support
 
 Crafted with ❤️ by tawfique02
